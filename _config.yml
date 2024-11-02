@@ -30,7 +30,7 @@ github_username:
 
 
 # Build settings
-remote_theme: daviddarnes/alembic
+remote_theme: papnikol/alembic_fork_for_vet
 plugins:
   - jekyll-feed
 
