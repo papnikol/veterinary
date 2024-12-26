@@ -1,14 +1,21 @@
 # main links
 main:
+  - title: "Αρχική"
+    url: /index/
+  - title: "Το Εργαστήριο"
+    sublinks:
+      - title: "Πληροφορίες"
+        url: /info/
+      - title: "Ποιοί Είμαστε"
+        url: /about/
+  - title: "Υπηρεσίες"
+    sublinks:
+      - title: "Λοιμώδη Νοσήματα"
+        url: /nosimata/
+      - title: "Κυτταρολογία"
+        url: /kyttarologia/
+      - title: "Αιματολογια"
+        url: /aimatologia/
+    # url: /about/
   - title: "Επικοινωνία"
     url: /contact/
-  - title: "Ποιοί Είμαστε"
-    url: /about/
-  - title: "Services"
-    url: /services/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/

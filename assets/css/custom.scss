@@ -1,0 +1,35 @@
+.page__hero--overlay {
+    height: 40vh; /* Sets the height to 100% of the viewport */
+    background-size: cover; /* Ensures the image covers the entire section */
+    background-position: center; /* Centers the image */
+}
+
+@media (max-width: 768px) {
+    .page__hero--overlay {
+        height: 30vh; /* Adjust the height for mobile devices */
+    }
+}
+
+#page-title {
+    display: none;
+}
+
+
+// .greedy-nav .site-title {
+//     color: transparent; /* Hide the original text */
+// }
+
+// .site-title::before {
+//     content: "Vet"; /* First part of the title */
+//     color: #0073e6; /* Blue color for "Vet" */
+//     font-weight: bold; /* Optional: Adjust font weight */
+//     font-size: inherit; /* Ensures it matches the original font size */
+// }
+
+// .site-title::after {
+//     content: "Lab"; /* Second part of the title */
+//     color: #ff5722; /* Orange color for "Lab" */
+//     margin-left: 2px; /* Adds spacing between "Vet" and "Lab" */
+//     font-weight: bold; /* Optional: Adjust font weight */
+//     font-size: inherit; /* Ensures it matches the original font size */
+// }

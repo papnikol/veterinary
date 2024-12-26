@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Hatzis Veterinary Lab"
+title                    : "VetLab"
 title_separator          : "-"
 subtitle                 : "Providing Excellent Veterinary Services and Diagnostics" # site tagline that appears below site title in masthead
 name                     : "Your Name"
